@@ -16,5 +16,5 @@ COPY . .
 # Step 6: Expose port 3000
 EXPOSE 3000
 
-# Step 7: Run the app
+# Step 7: Run the ap
 CMD ["npm", "start"]
